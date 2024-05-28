@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: -20px 20px;
+    padding-right:10px;
+    text-wrap: wrap;
+    
+}
+img {
+    border:1px;
+    border-radius:1px;
+    padding: 5px;
+    width: 150px;
+    align-items: left;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    font-size: 20px;
+ 
+}
